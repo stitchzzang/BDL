@@ -6,6 +6,7 @@
 > 모의 투자 및 자동 투자 시스템 기반 주식 학습 플랫폼
 
 - [🌐 부자될랩 서비스 바로가기](https://j12d202.p.ssafy.io)
+- [🗂️ 부자될랩 FE 레포지토리 바로가기](https://github.com/stitchzzang/BDL_PJT_FRONT)
 
 ## 📑 목차
 
