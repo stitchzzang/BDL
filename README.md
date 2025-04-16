@@ -1,4 +1,5 @@
-# 💰 부자될랩(BDL)
+# 💰 TEAM 부자인거지 "부자될랩(BDL)"     
+## 🏆SSAFY 12기 특화프로젝트(핀테크) 🏆    
 
 > **실시간 투자 체험과 주식 튜토리얼을 통한 주식 교육 플랫폼!**
 >
@@ -112,7 +113,7 @@
 
 ### 💻 프론트엔드
 
-![React](https://img.shields.io/badge/react-%230db7ed.svg?style=for-the-badge&logo=react&logoColor=white)![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)![ky](https://img.shields.io/badge/axios-%23663399.svg?style=for-the-badge&logo=ky&logoColor=)![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)![Echarts](https://img.shields.io/badge/apacheecharts-black.svg?style=for-the-badge&logo=apacheecharts&logoColor=white)![Zustand](https://img.shields.io/badge/zustand-black.svg?style=for-the-badge&logo=zustand&logoColor=black)![shadcn](https://img.shields.io/badge/shadcn/ui-black.svg?style=for-the-badge&logo=shadcn&logoColor=black)![Framer-Motion](https://img.shields.io/badge/framer_motion-black.svg?style=for-the-badge&logo=framer-motion&logoColor=black)![Lottie](https://img.shields.io/badge/lottie-black.svg?style=for-the-badge&logo=lottie&logoColor=black)![Stomp](https://img.shields.io/badge/stompjs-black.svg?style=for-the-badge&logo=stompjs&logoColor=black)
+![React](https://img.shields.io/badge/react-%230db7ed.svg?style=for-the-badge&logo=react&logoColor=white)![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)![ky](https://img.shields.io/badge/axios-%23663399.svg?style=for-the-badge&logo=ky&logoColor=)![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)![Zustand](https://img.shields.io/badge/zustand-black.svg?style=for-the-badge&logo=zustand&logoColor=black)![shadcn](https://img.shields.io/badge/shadcn/ui-black.svg?style=for-the-badge&logo=shadcn&logoColor=black)![Framer-Motion](https://img.shields.io/badge/framer_motion-black.svg?style=for-the-badge&logo=framer-motion&logoColor=black)![Lottie](https://img.shields.io/badge/lottie-black.svg?style=for-the-badge&logo=lottie&logoColor=black)![Stomp](https://img.shields.io/badge/stompjs-black.svg?style=for-the-badge&logo=stompjs&logoColor=black)![Echarts](https://img.shields.io/badge/Echarts-black.svg?style=for-the-badge&logo=echart&logoColor=black)
 
 ### ⚙️ 백엔드
 
@@ -132,7 +133,7 @@
 
 ### ✍️ IDE & 편집툴
 
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)![Adobe](https://img.shields.io/badge/adobe_Premiere_Pro-%23FF0000.svg?style=for-the-badge&logo=adobe-Premiere-Pro&logoColor=white)![OBS](https://img.shields.io/badge/obsstudio-black.svg?style=for-the-badge&logo=obsstudio&logoColor=white)![ScreenToGif](https://img.shields.io/badge/Screen_To_Gif-black.svg?style=for-the-badge&logo=Screen-To-Gif&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)![Adobe](https://img.shields.io/badge/adobe_Premiere_Pro-%23FF0000.svg?style=for-the-badge&logo=adobe-Premiere-Pro&logoColor=white)![OBS](https://img.shields.io/badge/obsstudio-black.svg?style=for-the-badge&logo=obsstudio&logoColor=white)![ScreenToGif](https://img.shields.io/badge/Screen_To_Gif-black.svg?style=for-the-badge&logo=Screen-To-Gif&logoColor=white)
 
 ---
 
@@ -216,12 +217,12 @@ app
 
 ### 🏗️ 아키텍처
 
-![ERD_BDL](docs/ERD,%20아키텍처/시스템%20아키텍처_BDL.png)
+<img width="908" alt="스크린샷 2025-04-14 오후 9 19 38" src="https://github.com/user-attachments/assets/a016a9f8-01df-4e6c-8d71-bdb6e01c0ec0" />
 
 
 ### 📚 ERD
 
-![architecture_BDL](docs/ERD,%20아키텍처/ERD_BDL.png)
+<img width="857" alt="스크린샷 2025-04-14 오후 9 19 48" src="https://github.com/user-attachments/assets/ff00ff68-d0e3-417d-b37f-76eafda4597d" />
 
 ---
 
@@ -392,31 +393,46 @@ app
 
 ### 홈
 
-![home](docs/시연%20GIF/mainpage.gif)
+![mainpage](https://github.com/user-attachments/assets/baea9a6d-dffa-456f-bb7e-8ac1710cdbb0)
+
 
 ### 알고리즘 생성
 
-![algorithm_lab](docs/시연%20GIF/algo_lab.gif)
+![algo_lab](https://github.com/user-attachments/assets/6615a6f9-0d1a-406d-a9cd-83f2e74b050c)
+
 
 ### 알고리즘 백테스트
 
-![backtest](docs/시연%20GIF/backtest.gif)
+![backtest1](https://github.com/user-attachments/assets/3ae97d3b-632d-420b-a9b2-dd0475325c11)
 
 ### 모의 투자
 
-![simulated_investment](docs/시연%20GIF/simulated_investment.gif)
+![모의주식-전체움직임](https://github.com/user-attachments/assets/81432f37-ead8-4683-b069-89bd63bca255)
+![호가움직임3](https://github.com/user-attachments/assets/e4f0f2c8-7e80-47c9-ad39-c4502558daae)
 
-### 주식 튜토리얼
+### 주식 튜토리얼 (대용량 파일로 로딩이 오래 걸릴 수 있습니다..!)
 
-![tutorials](docs/시연%20GIF/tutorials.gif)
+![tutorials](https://github.com/junyoungBae1/BDL/blob/master/%EC%8B%9C%EC%97%B0%20GIF/tutorials.gif?raw=true)
 
 ### 마이페이지
 
-![mypage](docs/시연%20GIF/mypage.gif)
+![mypage](https://github.com/user-attachments/assets/293fefe6-0f89-4985-b7c5-b8020dd023f7)
+
 
 ---
 
 ## 📌 기타 정보
 
-- **CI/CD:** GitLab, Jenkins를 활용한 자동화 배포
-- **테스트 방법:** QA 문서 작성 후 페이지별 테스트 진행
+- **CI/CD:** GitLab, Jenkins를 활용한 자동화 배포      
+- **테스트 방법:** QA 문서 작성 후 페이지별 테스트 진행 / 유저 테스트 진행      
+	+ **✅유저 테스트**:       
+	약 5:1의 경쟁률을 뚫고 전국 137개 팀 중 5개의 팀 내에 선정되어, 삼성 임직원분들께 테스트를 받을 수 있었습니다.
+
+		![image](https://github.com/user-attachments/assets/186fa68c-2576-4d8b-a438-80a172444ea8)       
+
+		발표자료 및 영상 포트폴리오를 제출하고, 테스트 후 제공받은 피드백은 아래와 같습니다.           
+
+		![image](https://github.com/user-attachments/assets/25b93c41-9995-4254-b712-b066820f393d)         
+
+
+
